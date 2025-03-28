@@ -11,13 +11,13 @@ Poiché è stato scelto VHDL come linguaggio di descrizione, il livello di model
 
 Il componente da progettare s'interfaccia con una memoria da cui riceve una sequenza di K _parole_. L'elaborazione della sequenza consiste nello scrivere in memoria accanto a ogni _parola_ il valore di credibilità corrispondente: il conto del numero di occorrenze consecutive della stessa _parola_ all'interno della sequenza, a partire da 31 fino a 0 (arrivati a 0 si continua a scrivere 0).
   
-![interfaccia generale di specifica](./images/General_Schematic)
+![interfaccia generale di specifica](./images/General_Schematic.png)
 
 Nel completo le specifiche sono descritte [qui](./specifications/PFRL_Specifica_23_24_V_22_12_2023.pdf)
 
 ## Descrizione del componente
 
-![componente completo](./images/Project_Schematic)
+![componente completo](./images/Project_Schematic.png)
 
 Il componente progettato è divisibile in 4 sezioni:
 

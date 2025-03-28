@@ -9,13 +9,13 @@ Since VHDL was chosen as hardware description language, the choice to use a beha
 
 The project component communicates with a memory from which it receives a sequence of K _words_. The sequence is then processed by writing to memory after every _word_ the associated credibilità value: it counts the number of subsequent occurrences of the same _word_, starting at 31 counting down to 0 (when at 0 remains 0).
 
-![generic interface](./images/General_Schematic)
+![generic interface](../images/General_Schematic.png)
 
 A detailed report of the requirements is [here]()
 
 ## Component's description
 
-![whole component](./images/Project_Schematic)
+![whole component](../images/Project_Schematic.png)
 
 The component is designed in 4 modules:
 
