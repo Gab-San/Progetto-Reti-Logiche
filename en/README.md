@@ -11,7 +11,7 @@ The project component communicates with a memory from which it receives a sequen
 
 ![generic interface](../images/General_Schematic.png)
 
-A detailed report of the requirements is [here](../specifications/PFRL_Specifica_23_24_V_22_12_2023.pdf)
+A detailed report of the requirements is [here](./Requirements.md)
 
 ## Component's description
 
@@ -32,4 +32,4 @@ The detailed description of the components is [here](./Digital_Logic_Design_Repo
 
 The code was requested in only one file. Thus modules' code is included in the file in _src_.
 
-> The code was divided with comments in the various modules, for better clarity.
+> The code was divided with comments in the various sections, for better clarity.
