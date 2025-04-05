@@ -11,7 +11,7 @@ The project component communicates with a memory from which it receives a sequen
 
 ![generic interface](../images/General_Schematic.png)
 
-A detailed report of the requirements is [here]()
+A detailed report of the requirements is [here](../specifications/PFRL_Specifica_23_24_V_22_12_2023.pdf)
 
 ## Component's description
 
@@ -26,7 +26,7 @@ The component is designed in 4 modules:
 
 These four modules work in parallel with intermodule signals that allow for the correct read and write of the registers.
 
-The detailed description of the components is [here]()
+The detailed description of the components is [here](./Digital_Logic_Design_Report.pdf)
 
 ### The code
 
