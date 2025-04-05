@@ -27,4 +27,4 @@ Starting sequence (W values in bold):
 Final sequence:
 **128** 31 **64** 31 **64** 30 **64** 29 **64** 28 **64** 27 **64** 26 **100** 31 **1** 31 **1** 30 **5** 31 **23** 31 **200** 31 **200** 30
 
-> The functionality of the component as well as the interface is described in the (report)[./Digital_Logic_Design_Report.pdf]
+> The functionality of the component as well as the interface is described in the [report](./Digital_Logic_Design_Report.pdf)
